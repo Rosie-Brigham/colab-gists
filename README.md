@@ -15,3 +15,6 @@
 |Focus|	Area of water pooling	|Area of water pooling	|Area of water pooling	|Level of water pooling	|Level of water pooling	|Identification of site|
 |Validation and learning loss tracked	|False	|False	|True	|True |	True	|True|
 
+
+
+[![DOI](https://zenodo.org/badge/93148726.svg)](https://zenodo.org/badge/latestdoi/93148726)
