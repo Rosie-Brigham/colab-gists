@@ -1,0 +1,1 @@
+# Within this repo are the 6 different colab notebooks used for Monument Monitor experimental AI work
